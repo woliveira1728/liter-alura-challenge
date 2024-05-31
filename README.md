@@ -54,4 +54,4 @@ When the application is running, you will see the main menu in the console. The 
 4. List living authors in a given year: Displays authors who were alive in a given year.
 5. List books in a certain language: Displays books in a specific language.
 
-To select an option, type the corresponding number and follow the instructions in the console.
+To select an option, type the corresponding number and follow the instructions in the console. 
